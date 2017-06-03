@@ -43,6 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FacebookManager.cs" />
+    <Compile Include="GroupMember.cs" />
+    <Compile Include="GroupMemberA.cs" />
+    <Compile Include="GroupMemberB.cs" />
+    <Compile Include="IFacebookGroup.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
